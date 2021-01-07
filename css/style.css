@@ -1,0 +1,15 @@
+.one {
+	font-family: 'IBM Plex Serif', serif;
+}
+body {
+	font-family: 'IBM Plex Serif', serif;
+	background-color: #2b363b;
+}
+
+.one, body, .swag {
+	color: white;
+}
+
+a:link {
+	color: white;
+}
