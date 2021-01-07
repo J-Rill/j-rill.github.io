@@ -1,14 +1,15 @@
-body{
+body {
 	font-family: 'IBM Plex Sans', sans-serif;
 	background-color: #2b363b;
 }
 
-.one, body, .swag{
+.one, .two, body, .swag {
 	color: white;
 	font-family: 'IBM Plex Sans', sans-serif;
 }
 
-a:link{
+a:link, a:visited, a:hover, a:active {
 	color: white;
 	font-family: 'IBM Plex Sans', sans-serif;
 }
+
