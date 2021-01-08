@@ -13,7 +13,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .aligncenter {
-	text-align: center;
+	text-align: left;
 }
 
 .two {
@@ -45,4 +45,22 @@ a:link, a:visited, a:hover, a:active {
 
 .two, .three {
 	position: relative;
+}
+
+h1 {
+	position: relative;
+	left: 430px;
+}
+h2 {
+    position: relative;
+    left: 480px;
+}
+
+.euphonium {
+	position: relative;
+	left: 50px;
+}
+
+.one {
+	margin-right: 450px;
 }
