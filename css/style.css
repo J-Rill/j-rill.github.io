@@ -1,15 +1,26 @@
 body {
 	font-family: 'IBM Plex Sans', sans-serif;
-	background-color: #2b363b;
 }
 
 .one, .two, body, .swag {
-	color: white;
+	color: black;
 	font-family: 'IBM Plex Sans', sans-serif;
 }
 
 a:link, a:visited, a:hover, a:active {
-	color: white;
+	color: ;
 	font-family: 'IBM Plex Sans', sans-serif;
 }
 
+.aligncenter {
+	text-align: center;
+}
+
+.two {
+  display: flex;
+}
+
+.three {
+  flex: 33.33%;
+  padding: 5px;
+}
