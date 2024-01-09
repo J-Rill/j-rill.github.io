@@ -74,12 +74,12 @@ $lighter-columbia-blue      : mix(#fff, $columbia-blue, 90%);
 
 $body-color                 : #fff;
 $background-color           : $columbia-blue;
-$code-background-color      : #fafafa;
+$code-background-color      : #light-columbia-blue;
 $code-background-color-dark : $light-columbia-blue; // Using the lighter shade of Columbia blue for code background
 $text-color                 : $dark-columbia-blue;
 $border-color               : $lighter-columbia-blue;
 
-$primary-color              : $columbia-blue;
+$primary-color              : $dark-columbia-blue; // text by the headers
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
