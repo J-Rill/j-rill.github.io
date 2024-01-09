@@ -52,15 +52,17 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
+$columbia-blue              : #9bddff;
+$lighter-columbia-blue      : #accce6;
 
 $body-color                 : #f0f0f0;
 $background-color           : #f0f0f0;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
+$code-background-color-dark : $lighter-columbia-blue;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $lighter-columbia-blue;
 
-$primary-color              : #7a8288;
+$primary-color              : $columbia-blue;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
