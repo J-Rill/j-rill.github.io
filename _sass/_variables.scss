@@ -59,16 +59,15 @@ $blue                       : #011638;
 $light-blue                 : mix(#fff, $blue, 50%);
 $lighter-blue               : mix(#fff, $blue, 90%);
 $black                      : #141414;
-$columbia-blue              : #9bddff
 
 $body-color                 : #F6F7EB;
 $background-color           : #F6F7EB;
-$code-background-color      : $columbia-blue; // background color
+$code-background-color      : #fafafa;
 $code-background-color-dark : $light-crimson;
-$text-color                 : $black; 
-$border-color               : $lighter-crimson; // border colors around profile pic and line for the upper border
+$text-color                 : $black;
+$border-color               : $lighter-crimson;
 
-$primary-color              : $crimson; // text in the upper bar
+$primary-color              : $crimson;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
