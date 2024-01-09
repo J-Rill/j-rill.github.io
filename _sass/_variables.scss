@@ -59,10 +59,11 @@ $blue                       : #011638;
 $light-blue                 : mix(#fff, $blue, 50%);
 $lighter-blue               : mix(#fff, $blue, 90%);
 $black                      : #141414;
+$columbia-blue              : #9bddff;
 
 $body-color                 : #F6F7EB;
 $background-color           : #F6F7EB;
-$code-background-color      : #B9D9EB;
+$code-background-color      : $columbia-blue;
 $code-background-color-dark : $light-crimson;
 $text-color                 : $black;
 $border-color               : $lighter-crimson;
