@@ -21,4 +21,5 @@ Throughout my time at Columbia, I conducted research under Professor [Daniel Bj√
 Previously, I have worked at Citi as a Markets Summer Analyst and developed machine learning and autoregressive models to help traders make more statistically informed decisions. I've also dabbled in public policy consulting at Vriens & Partners for Fortune 500 clients in the Philippines. On campus, I was involved with Columbia UNICEF (Treasurer & Fundraising Committee Head), Liga Filipina (International Student Rep), and Alpha Kappa Psi. 
 
 **Hobbies!**
+
 Basketball, volleyball, Super Smash Bros Ultimate, FIFA, reading, [euphonium](https://en.wikipedia.org/wiki/Euphonium), piano
