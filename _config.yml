@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joachim Rillo"
 title_separator          : "-"
 name                     : &name "Joachim Rillo"
-description              : &description "Incoming Predoc Fellow @ Yale Tobin"
+description              : &description "Tobin Predoc Fellow @ Yale SOM"
 url                      : https://j-rill.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "J-Rill/j-rill.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Joachim Rillo"
-  avatar           : "Joachim headshot.jpeg"
+  avatar           : ".jpeg"
   bio              : ""
   location         : "New York, NY"
   employer         : "Columbia University"
