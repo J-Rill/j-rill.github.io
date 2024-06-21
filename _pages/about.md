@@ -14,7 +14,7 @@ I am a Tobin Predoctoral Fellow at Yale SOM, where I am very fortunate to be adv
 
 **Some other fun facts about me**
 
-I studied in Ontario, Jakarta, Tokyo, and Manila before moving to the US for university.
+I studied in Toronto, Jakarta, Tokyo, and Manila before moving to the US for university.
 
 Throughout my time at Columbia, I conducted research under Professor [Daniel Björkegren](https://dan.bjorkegren.com/) on 2 projects: evaluating the effectiveness of Generative AI in improving educational outcomes for underresourced communities and working with the transport authority of a developing country to build public transport infrastructure. I have also previously conducted research under Professor [Aneesh Raghunandan](https://www.aneeshraghunandan.com/) and Professor [Shivaram Rajgopal](https://www.shivarajgopal.com/) on whether firms uphold job creation targets that are offered in exchange for state aid.
 
