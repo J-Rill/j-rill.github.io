@@ -5,4 +5,7 @@ main:
     
   - title: "CV"
     url: /files/cv_june2024.pdf
+
+  - title: "Research"
+    url: /research/
     
