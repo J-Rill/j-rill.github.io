@@ -13,7 +13,7 @@ Forthcoming, **Annual Review of Financial Economics**
 
 ["The Economics of Biodiversity Loss and Climate Change: Implications for Asia and the Pacific"](/files/GRS_APAC_BiodiversitiyLoss.pdf) with Stefano Giglio and Johannes Stroebel
 
-Background Paper, **ADB APAC Climate Change Report 2025**
+Background Paper, **ADB Asia-Pacific Climate Report 2025: Unlocking Nature for Development**
 
 
 ### Work in Progress
