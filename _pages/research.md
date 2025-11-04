@@ -7,7 +7,7 @@ author_profile: true
 
 ### Papers
 
-["Investor Beliefs and Expectation Formation"](/pages/GMRSUX_BeliefsExpectation_ARFE.pdf) with Stefano Giglio, Matteo Maggiori, Johannes Stroebel, Stephen Utkus, and Xiao Xu
+["Investor Beliefs and Expectation Formation"](/files/GMRSUX_BeliefsExpectation_ARFE.pdf) with Stefano Giglio, Matteo Maggiori, Johannes Stroebel, Stephen Utkus, and Xiao Xu
 
 Forthcoming, **Annual Review of Financial Economics**
 
