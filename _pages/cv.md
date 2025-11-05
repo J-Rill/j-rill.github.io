@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/cv_june2024.pdf
+permalink: /files/CV_Joachim_Rillo.pdf
 author_profile: true
 redirect_from:
   - /resume
