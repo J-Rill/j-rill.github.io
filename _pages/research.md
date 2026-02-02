@@ -13,5 +13,6 @@ author_profile: true
 2. ["The Economics of Biodiversity Loss and Climate Change: Implications for Asia and the Pacific"](/files/GRS_APAC_BiodiversityLoss.pdf) with Stefano Giglio and Johannes Stroebel
    
    Background Paper, **ADB Asia-Pacific Climate Report 2025: Unlocking Nature for Development**
+
 [   360info Coverage
 ]([url](https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/))
