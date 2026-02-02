@@ -14,4 +14,5 @@ author_profile: true
    
    Background Paper, **ADB Asia-Pacific Climate Report 2025: Unlocking Nature for Development**
 
-   [360info Coverage]([url](https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/))
+   [360info Coverage](https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/)
+
