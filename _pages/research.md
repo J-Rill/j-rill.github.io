@@ -16,3 +16,6 @@ author_profile: true
 
    **Coverage:** [360info](https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/)
 
+3. ["Representative Agents in Disguise: The Limits of LLM-Generated Synthetic Expectations"](/files/Writing_Sample.pdf)
+
+   Working Paper
