@@ -131,6 +131,13 @@ nav {
 
 .bio p:last-child { margin-bottom: 0; }
 
+.bio a {
+  color: var(--accent);
+  transition: color 0.15s;
+}
+
+.bio a:hover { color: var(--hi); }
+
 .links-row {
   display: flex;
   gap: 22px;
