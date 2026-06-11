@@ -129,6 +129,8 @@ nav {
   text-wrap: pretty;
 }
 
+.bio p:last-child { margin-bottom: 0; }
+
 .links-row {
   display: flex;
   gap: 22px;
