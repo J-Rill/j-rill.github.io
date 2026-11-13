@@ -4,16 +4,17 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="color-scheme" content="light" />
-  <meta name="theme-color" content="#ffffff" />
+  <meta name="darkreader-lock" />
+  <meta name="theme-color" content="#f7f5f0" />
   <meta name="description" content="Research papers by Joachim Rillo." />
   <title>Research · Joachim Rillo</title>
   <link rel="canonical" href="https://j-rill.github.io/research/" />
+  <meta property="og:title" content="Research · Joachim Rillo" />
+  <meta property="og:description" content="Research papers by Joachim Rillo." />
+  <meta property="og:url" content="https://j-rill.github.io/research/" />
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
   <link rel="icon" href="/favicon.png" type="image/png" sizes="32x32" />
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
-  <meta property="og:title" content="Research · Joachim Rillo" />
-  <meta property="og:description" content="Papers on expectation formation, household finance, and climate finance." />
-  <meta property="og:url" content="https://j-rill.github.io/research/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Joachim Rillo" />
   <meta property="og:image" content="https://j-rill.github.io/images/headshot-400.jpg" />
@@ -23,8 +24,8 @@
   <meta name="twitter:card" content="summary" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,400&display=swap" rel="stylesheet" />
-  <script>if (localStorage.getItem('theme') === 'dark') { document.documentElement.dataset.theme = 'dark'; document.querySelector('meta[name="theme-color"]').content = '#121212'; }</script>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet" />
+  <script>(function () { var saved = localStorage.getItem('theme'); if (saved === 'dark' || (!saved && matchMedia('(prefers-color-scheme: dark)').matches)) { document.documentElement.dataset.theme = 'dark'; document.querySelector('meta[name="theme-color"]').content = '#080e1b'; document.querySelector('meta[name="color-scheme"]').content = 'dark'; } })();</script>
   <link rel="stylesheet" href="/styles.css" />
   <script src="/theme.js" defer></script>
 </head>
@@ -32,67 +33,48 @@
 
 <a class="skip-link" href="#main">Skip to content</a>
 
-<nav>
-  <div class="nav-inner">
-    <a class="nav-name" href="/">Joachim Rillo</a>
-    <div class="nav-links">
-      <a href="/">About</a>
-      <a href="/research/" class="active" aria-current="page">Research</a>
-      <a href="/misc/">Misc</a>
-      <button class="theme-toggle" type="button" aria-label="Dark mode" aria-pressed="false">
-        <svg class="icon-moon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
-        <svg class="icon-sun" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
-      </button>
-    </div>
-  </div>
-</nav>
+<header class="site-header">
+  <a class="site-name" href="/">Joachim Rillo</a>
+  <nav>
+    <a href="/research/" aria-current="page">Research</a>
+    <a href="/files/CV_Joachim_Rillo.pdf">CV</a>
+    <a href="/misc/">Misc</a>
+    <button class="theme-toggle" type="button" aria-label="Dark mode">Dark</button>
+  </nav>
+</header>
 
-<main id="main">
-  <div class="page">
-    <div class="page-header">
-      <h1>Papers</h1>
-    </div>
+<div class="wrap">
 
-    <div class="page-body">
-      <div class="section">
-        <h2 class="section-label">Published &amp; Forthcoming</h2>
+  <main id="main">
+    <section class="section">
+      <h1>Research</h1>
 
-        <div class="paper">
-          <div>
-            <h3><a href="/files/GMRSUX_BeliefsExpectation_ARFE.pdf" target="_blank" rel="noreferrer">Investor Beliefs and Expectation Formation</a></h3>
-            <p class="coauthors">with Stefano Giglio, Matteo Maggiori, Johannes Stroebel, Stephen Utkus, and Xiao Xu</p>
-            <p class="venue"><em>Annual Review of Financial Economics</em>, Vol. 18 (2026), pp. 479–501</p>
-          </div>
-        </div>
+      <h3>Published</h3>
+      <article class="entry">
+        <a class="entry-title" href="/files/GMRSUX_BeliefsExpectation_ARFE.pdf">Investor Beliefs and Expectation Formation</a>
+        <div>with Stefano Giglio, Matteo Maggiori, Johannes Stroebel, Stephen Utkus, and Xiao Xu</div>
+        <div class="muted"><em>Annual Review of Financial Economics</em>, Vol. 18 (2026), pp. 479–501</div>
+      </article>
+      <article class="entry">
+        <a class="entry-title" href="/files/GRS_APAC_BiodiversityLoss.pdf">The Economics of Biodiversity Loss and Climate Change: Implications for Asia and the Pacific</a>
+        <div>with Stefano Giglio and Johannes Stroebel</div>
+        <div class="muted">Background Paper, <em>ADB Asia-Pacific Climate Report 2025: Unlocking Nature for Development</em></div>
+        <div class="muted">Coverage: <a href="https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/">360info</a>, <a href="https://thediplomat.com/2026/02/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/">The Diplomat</a></div>
+      </article>
 
-        <div class="paper">
-          <div>
-            <h3><a href="/files/GRS_APAC_BiodiversityLoss.pdf" target="_blank" rel="noreferrer">The Economics of Biodiversity Loss and Climate Change: Implications for Asia and the Pacific</a></h3>
-            <p class="coauthors">with Stefano Giglio and Johannes Stroebel</p>
-            <p class="venue">Background Paper, <em>ADB Asia-Pacific Climate Report 2025: Unlocking Nature for Development</em></p>
-            <p class="coverage">Coverage: <a href="https://360info.org/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/" target="_blank" rel="noreferrer">360info</a>, <a href="https://thediplomat.com/2026/02/the-economics-of-biodiversity-loss-implications-for-asia-and-the-pacific/" target="_blank" rel="noreferrer">The Diplomat</a></p>
-          </div>
-        </div>
-      </div>
+      <h3>Working Papers</h3>
+      <article class="entry">
+        <a class="entry-title" href="/files/Writing_Sample.pdf">Representative Agents in Disguise: The Limits of LLM-Generated Synthetic Expectations</a>
+        <div class="muted">Working Paper</div>
+      </article>
+    </section>
+  </main>
 
-      <div class="section">
-        <h2 class="section-label">Working Papers</h2>
+  <footer class="site-footer">
+    <p>© 2026 Joachim Rillo · New Haven, CT</p>
+  </footer>
 
-        <div class="paper">
-          <div>
-            <h3><a href="/files/Writing_Sample.pdf" target="_blank" rel="noreferrer">Representative Agents in Disguise: The Limits of LLM-Generated Synthetic Expectations</a></h3>
-            <p class="venue">Working Paper</p>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </div>
-</main>
-
-<footer>
-  <p>© 2026 Joachim Rillo · New Haven, CT</p>
-</footer>
+</div>
 
 </body>
 </html>
